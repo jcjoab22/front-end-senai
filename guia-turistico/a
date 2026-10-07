@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html> 
+
+    <head>
+        <title>Descubra Londrina</title>
+        <meta charset="UTF-8"/>
+ </head>
+ <body>
+    <header>
+        <h1>Guia Turistico-Londrina</h1>
+        <p> Seu próximo destino começa aqui: viva momentos, 
+            acumule memórias.</p>
+        <nav>
+            <a href="Historia">Historia</a>
+            <a href="Atrações">Atrações</a>
+            <a href="Dicas">Dicas</a>
+        </nav>    
+   </header>
+   <main>
+        <section id="Historia">
+            <h2>Historia de Londrina</h2>
+            <article>
+                <h3>Fundação da cidade</h3>
+                <p>Publicado por <b>Joab Cauã Lourenço da Silva </b> em <b>06/10/2026</b></p>
+                <img src="imagens/imagem.pc.webp" alt="Imagem de um computador preto" width="280">
+            </article>
+        </section>
+        <hr>
+        <section id="Atrações">
+            <h2>Atrações turísticas</h2>
+            <ul>
+                <li>Parque Arthur Thomas</li>
+                <li>Parque do Lago Igapó</li>
+                <li>Parque Estadual Mata dos Godoy</li>
+            </ul>
+        </section>
+        <hr>
+        <section id="Dicas">
+            <h3>Dicas para visitar Londrina</h3>
+            <p>Para mais informações acesse o site oficial da cidade: 
+                <a href="https://www.londrina.pr.gov.br/">Link util</a></p>                
+        </section>
+        <hr>
+        <footer>
+            <p>Desenvolvido com foco e web Semantica</p>
+            <p> 
+                <A href="#">voltar ao topo</A>"
+            </p>
+        </footer>
+
+    </main>
+ </body>
+
+
+
+
+</html>

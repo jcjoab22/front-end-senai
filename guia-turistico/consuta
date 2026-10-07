@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>Technews - Portal de Noticias</title>
+       <meta charset=""UTF-8" />
+    </head>
+     <body>
+        <header>
+             <h1> TechNews Senai</h1>
+             <p>O seu portal diario de inovação,
+             programação e tecnologia web</p>
+             <nav>
+               <a href="#Destaque">Destaques</a>
+               <a href="#Tutoriais">Tutoriais</a>
+               <a href="#Sobre">sobre</a>           
+             </nav>
+        </header>
+        <hr>
+        <main>
+
+             <section id="Destaque"> 
+                <h2>Notícias em Destaque</h2>
+                <article>
+                    <h3>HTML Semantico domina 100% das novas aplicações</h3>
+                    <p>Publicado por <b>Joab Cauã Lourenço da Silva </b> em <b>06/10/2026</b></p>
+                    <img src="imagens/imagem.pc.webp" alt="Imagem de um computador preto" width="280">
+                </article>
+             </section>
+             <hr>
+                <section id="Tutoriais">
+                    <h2>Tutorias da Semana</h2>
+                    <ul>
+                        <li>Guia Git: Como controlarversões de codigo</li>
+                        <li> Acessibilidade Digital: A inportancia da propriedade Alt mas imagem</li>
+                    </ul>
+                </section>
+                <hr>
+                <section id="Sobre">
+                    <h3> Sobre a comunidade techNews</h3>
+                <p>
+                    <a href="https://github.com/jcjoab22/front-end-senai/tree/main/aula01">Link util</a>
+                </p>                
+            </section>
+            <hr>
+            <footer>
+                <p>Desenvolvido com foco e web Semantica</p>
+                <p> 
+                    <A href="#">voltar ao topo</A>"
+                </p>
+            </footer>
+        </main>
+    </body>
+</html>
